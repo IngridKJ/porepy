@@ -39,3 +39,4 @@ bin/*
 *.nbi
 *.egg-info
 *.DS_Store
+.idea/
